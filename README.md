@@ -32,17 +32,29 @@ Architecture Highlights:
 
 # Project Architecture
 LocalChatBot/
+
 |
+
 |- main.py
+
 |
+
 |- language_model/     <- place GGUF LLM models here (ignored by Git)
+
 |- models/             <- place ONNX embedding models here (ignored by Git)
+
 |- faiss_data/         <- FAISS index files (ignored)
+
 |- logs/               <- runtime logs (ignored)
+
 |
+
 |- requirements.txt
+
 |- README.md
+
 |- .gitignore
+
 
 # Installation
 1. Create virtual environment:
