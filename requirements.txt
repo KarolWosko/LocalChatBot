@@ -1,0 +1,12 @@
+PyQt6
+onnxruntime
+numpy
+faiss-cpu
+PyMuPDF
+python-docx
+chardet
+transformers
+sentencepiece
+pandas
+llama_cpp_python==0.2.24
+requests
