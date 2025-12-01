@@ -1,6 +1,13 @@
 # LocalChatBot
 Offline Python desktop app for analyzing PDF, TXT and DOCX files using ONNX embeddings, FAISS vector search and local LLM models (Zephyr and Mistral). Designed for fast, private and intelligent document querying.
 
+# Screenshots
+## Main window
+![Main window](docs/main_window.png)
+
+## Loading model
+![Loading window](docs/loading_model.png)
+
 # Features
 Intelligent Document Search:
 - Reads PDF, TXT, DOCX.
