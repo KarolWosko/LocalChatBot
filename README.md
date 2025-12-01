@@ -55,6 +55,7 @@ LocalChatBot/
 
 # Download models
 Place your .gguf models in /language_model/
+
 Place your ONNX embedding model in /models/
 
 ---
