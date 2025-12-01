@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+*.txt
+
+# FAISS data
+faiss_data/
+*.faiss
+*.index
+
+# Models (ONNX, GGUF, translation)
+models/
+*.gguf
+*.onnx
+*.pb
+*.pth
+
+# PyQt / PyInstaller / Nuitka build artifacts
+build/
+dist/
+*.spec
+*.exe
+*.bin
+*.dll
+*.dylib
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+*.cache/
+cache/
+__cache__/
+
+# Jupyter / notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Output files
+output/
+exports/
+
+# System files
+.DS_Store
+Thumbs.db
